@@ -1,0 +1,21 @@
+{
+  "name": "pw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikiyancicek/pw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikiyancicek/pw/issues"
+  },
+  "homepage": "https://github.com/alikiyancicek/pw#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
+  }
+}
